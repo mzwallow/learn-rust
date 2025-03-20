@@ -1,0 +1,6 @@
+[package]
+name = "ch4_3-fixning_ownership_errors"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
